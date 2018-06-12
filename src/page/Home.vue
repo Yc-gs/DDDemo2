@@ -36,7 +36,7 @@ export default {
 }
 </script>
 <style lang="less">
-	@width:37.5rem;
+	@import "../assets/css/app.less";
 	ul,li {
 		box-sizing: border-box;
 	}

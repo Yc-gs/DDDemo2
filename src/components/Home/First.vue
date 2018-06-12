@@ -6,10 +6,10 @@
 		</div>
 		<div class="slider">
 			<mt-swipe :auto="4000">
-			  <mt-swipe-item><img src="static/images/01.jpg" alt=""></mt-swipe-item>
-			  <mt-swipe-item><img src="static/images/02.jpg" alt=""></mt-swipe-item>
-			  <mt-swipe-item><img src="static/images/03.jpg" alt=""></mt-swipe-item>
-			  <mt-swipe-item><img src="static/images/04.jpg" alt=""></mt-swipe-item>
+			  <mt-swipe-item><img src="/static/images/01.jpg" alt=""></mt-swipe-item>
+			  <mt-swipe-item><img src="/static/images/02.jpg" alt=""></mt-swipe-item>
+			  <mt-swipe-item><img src="/static/images/03.jpg" alt=""></mt-swipe-item>
+			  <mt-swipe-item><img src="/static/images/04.jpg" alt=""></mt-swipe-item>
 			</mt-swipe>
 		</div>
 		<!-- firstNav -->
@@ -17,25 +17,25 @@
 			<ul>
 				<li>
 					<div class="circleImg t1">
-						<img src="static/images/01.jpg" alt="">
+						<img src="/static/images/01.jpg" alt="">
 					</div>
 					<p>二手狗</p>
 				</li>
 				<li>
 					<div class="circleImg t2">
-						<img src="static/images/02.jpg" alt="">
+						<img src="/static/images/02.jpg" alt="">
 					</div>
 					<p>二手猫</p>
 				</li>
 				<li>
 					<div class="circleImg t2">
-						<img src="static/images/03.jpg" alt="">
+						<img src="/static/images/03.jpg" alt="">
 					</div>
 					<p>二手喵星人</p>
 				</li>
 				<li>
 					<div class="circleImg t4">
-						<img src="static/images/04.jpg" alt="">
+						<img src="/static/images/04.jpg" alt="">
 					</div>
 					<p>二手sss</p>
 				</li>
@@ -94,6 +94,10 @@ export default {
 </script>
 <style lang="less">
 	@width:37.5rem;
+	.search {
+		height: 53/@width;
+		overflow: hidden;
+	}
 	ul,li {
 		box-sizing: border-box;
 	}

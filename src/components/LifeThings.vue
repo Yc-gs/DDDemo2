@@ -1,10 +1,11 @@
+<style lang="less" src="../assets/css/app.less"></style>
 <template>
 	<div id="lifethings">
 		<ul>
 			<li>
 				<div class="box">
 					<a href="##">
-						<img src="static/images/02.jpg" alt="">
+						<img src="/static/images/02.jpg" alt="">
 					</a>
 					<p class='p1'>￥1699元</p>
 					<p class='p2'>怪兽专属喵星人</p>
@@ -13,7 +14,7 @@
 			<li>
 				<div class="box">
 					<a href="##">
-						<img src="static/images/03.jpg" alt="">
+						<img src="/static/images/03.jpg" alt="">
 					</a>
 					<p class='p1'>￥1699元</p>
 					<p class='p2'>怪兽专属喵星人</p>
@@ -22,7 +23,7 @@
 			<li>
 				<div class="box">
 					<a href="##">
-						<img src="static/images/01.jpg" alt="">
+						<img src="/static/images/01.jpg" alt="">
 					</a>
 					<p class='p1'>￥1699元</p>
 					<p class='p2'>怪兽专属喵星人</p>
@@ -31,7 +32,7 @@
 			<li>
 				<div class="box">
 					<a href="##">
-						<img src="static/images/01.jpg" alt="">
+						<img src="/static/images/01.jpg" alt="">
 					</a>
 					<p class='p1'>￥1699元</p>
 					<p class='p2'>怪兽专属喵星人</p>
@@ -40,7 +41,7 @@
 			<li>
 				<div class="box">
 					<a href="##">
-						<img src="static/images/01.jpg" alt="">
+						<img src="/static/images/01.jpg" alt="">
 					</a>
 					<p class='p1'>￥1699元</p>
 					<p class='p2'>怪兽专属喵星人</p>
@@ -49,7 +50,7 @@
 			<li>
 				<div class="box">
 					<a href="##">
-						<img src="static/images/01.jpg" alt="">
+						<img src="/static/images/01.jpg" alt="">
 					</a>
 					<p class='p1'>￥1699元</p>
 					<p class='p2'>怪兽专属喵星人</p>
@@ -58,7 +59,7 @@
 			<li>
 				<div class="box">
 					<a href="##">
-						<img src="static/images/02.jpg" alt="">
+						<img src="/static/images/02.jpg" alt="">
 					</a>
 					<p class='p1'>￥1699元</p>
 					<p class='p2'>怪兽专属喵星人</p>
@@ -67,7 +68,7 @@
 			<li>
 				<div class="box">
 					<a href="##">
-						<img src="static/images/03.jpg" alt="">
+						<img src="/static/images/03.jpg" alt="">
 					</a>
 					<p class='p1'>￥1699元</p>
 					<p class='p2'>怪兽专属喵星人</p>
@@ -76,7 +77,7 @@
 			<li>
 				<div class="box">
 					<a href="##">
-						<img src="static/images/04.jpg" alt="">
+						<img src="/static/images/04.jpg" alt="">
 					</a>
 					<p class='p1'>￥1699元</p>
 					<p class='p2'>怪兽专属喵星人</p>
@@ -86,12 +87,12 @@
 	</div>
 </template>
 <script>
+
 	export default {
 
 	}
 </script>
 <style lang="less" scoped>
-	@width:37.5rem;
 	#lifethings {
 		width: 100%;
 		margin-top: 10/@width;

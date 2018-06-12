@@ -5,7 +5,7 @@
 			<li>
 				<div class="box">
 					<a href="##">
-						<img src="static/images/02.jpg" alt="">
+						<img src="/static/images/02.jpg" alt="">
 					</a>
 					<p class='p1'></p>
 					<p class='p2'></p>
@@ -14,7 +14,7 @@
 			<li>
 				<div class="box">
 					<a href="##">
-						<img src="static/images/03.jpg" alt="">
+						<img src="/static/images/03.jpg" alt="">
 					</a>
 					<p class='p1'></p>
 					<p class='p2'></p>
@@ -23,7 +23,7 @@
 			<li>
 				<div class="box">
 					<a href="##">
-						<img src="static/images/01.jpg" alt="">
+						<img src="/static/images/01.jpg" alt="">
 					</a>
 					<p class='p1'></p>
 					<p class='p2'></p>
@@ -32,7 +32,7 @@
 			<li>
 				<div class="box">
 					<a href="##">
-						<img src="static/images/01.jpg" alt="">
+						<img src="/static/images/01.jpg" alt="">
 					</a>
 					<p class='p1'></p>
 					<p class='p2'></p>
@@ -41,7 +41,7 @@
 			<li>
 				<div class="box">
 					<a href="##">
-						<img src="static/images/01.jpg" alt="">
+						<img src="/static/images/01.jpg" alt="">
 					</a>
 					<p class='p1'></p>
 					<p class='p2'></p>
@@ -50,7 +50,7 @@
 			<li>
 				<div class="box">
 					<a href="##">
-						<img src="static/images/01.jpg" alt="">
+						<img src="/static/images/01.jpg" alt="">
 					</a>
 					<p class='p1'></p>
 					<p class='p2'></p>
@@ -59,7 +59,7 @@
 			<li>
 				<div class="box">
 					<a href="##">
-						<img src="static/images/02.jpg" alt="">
+						<img src="/static/images/02.jpg" alt="">
 					</a>
 					<p class='p1'></p>
 					<p class='p2'></p>
@@ -68,7 +68,7 @@
 			<li>
 				<div class="box">
 					<a href="##">
-						<img src="static/images/03.jpg" alt="">
+						<img src="/static/images/03.jpg" alt="">
 					</a>
 					<p class='p1'></p>
 					<p class='p2'></p>
@@ -77,7 +77,7 @@
 			<li>
 				<div class="box">
 					<a href="##">
-						<img src="static/images/04.jpg" alt="">
+						<img src="/static/images/04.jpg" alt="">
 					</a>
 					<p class='p1'></p>
 					<p class='p2'></p>
